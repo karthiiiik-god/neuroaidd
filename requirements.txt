@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+librosa
+sounddevice
+opencv-python
+mediapipe
+scikit-learn
+matplotlib
+plotly
+reportlab
+pillow

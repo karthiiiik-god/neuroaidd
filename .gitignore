@@ -1,0 +1,22 @@
+# venvs
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data / artifacts
+neuroaid.db
+baseline.json
+my_neuroaid_export.json
+weekly_chart.png
+neuroaid_weekly_report.pdf
+
+# Models (optional – keep out if large)
+*.pkl
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
